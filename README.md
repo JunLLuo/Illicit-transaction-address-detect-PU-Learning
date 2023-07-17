@@ -2,7 +2,9 @@
 
 Implementation of the paper:  
 
-"Towards Improved Illicit Node Detection with Positive-Unlabelled Learning".
+```
+J. Luo, F. Poursafaei and X. Liu, "Towards Improved Illicit Node Detection with Positive-Unlabelled Learning," 2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), Dubai, United Arab Emirates, 2023, pp. 1-5, doi: 10.1109/ICBC56567.2023.10174907.
+```
 
 # Env
 
