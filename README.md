@@ -21,7 +21,7 @@ Blockchain Elliptic Data Set: [link](https://www.kaggle.com/datasets/ellipticco/
 
 Run `python data_processor.py` to generate the csv files needed for the experiments. 
 
-Ethereum Phishing Transaction Network data MulDiGraph.pkl is the example for the input dataset in the code.
+Ethereum Phishing Transaction Network data `MulDiGraph.pkl` is the example for the input dataset in the code.
 
 Run `python main.py` to get the experiments results of three models: LR, Elkanoto PU, Bagging Pu.
 
